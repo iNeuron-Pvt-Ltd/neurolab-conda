@@ -1,1 +1,3 @@
 pandas
+nest-simulator
+memory_profiler
